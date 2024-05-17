@@ -1,15 +1,21 @@
-main{
+.testimonial-body{
 	Background-color: #F5F5F5;
 	padding: 10px;
 }
 
-.test{
+.testemonial-section{
 	Background-color: #FFFFFF;
 	padding: 10px;
 	margin-top: 30px;
 	border: 1px solid #1f1f1f;
 }
 
+.testimonial{
+	margin:0;
+}
+
 .author{
 	text-align: right;
+	font-style: italic;
+	padding:0;
 }
